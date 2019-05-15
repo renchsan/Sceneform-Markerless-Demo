@@ -38,7 +38,6 @@ dependencies {
 
 }
 
-
 sceneform.asset('sampledata/models/andy_dance.fbx',
         'default',
         'sampledata/models/andy_dance.sfa',
